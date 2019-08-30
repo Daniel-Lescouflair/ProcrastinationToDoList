@@ -1,0 +1,15 @@
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\bin\Debug\ProcrastinatorsToDoList.exe.config
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\bin\Debug\ProcrastinatorsToDoList.exe
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\bin\Debug\ProcrastinatorsToDoList.pdb
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\ProcrastinatorsToDoList.csprojAssemblyReference.cache
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\App.g.cs
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\ProcrastinatorsToDoList_MarkupCompile.cache
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\ProcrastinatorsToDoList_MarkupCompile.lref
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\MainWindow.baml
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\ProcrastinatorsToDoList.g.resources
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\ProcrastinatorsToDoList.Properties.Resources.resources
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\ProcrastinatorsToDoList.csproj.GenerateResource.cache
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\ProcrastinatorsToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\ProcrastinatorsToDoList.exe
+C:\Users\Daniel.Lescouflair\source\repos\ProcrastinatorsToDoList\ProcrastinatorsToDoList\obj\Debug\ProcrastinatorsToDoList.pdb
