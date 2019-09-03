@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title= "Procastainator's To Do List" Height="700" Width="400">
 
+    <!-- Applying GUI Styles to different elements-->
     <Window.Resources>
         <Style TargetType="Border">
             <Setter Property="Background" Value="#0570eb" />
@@ -14,6 +15,10 @@
 
         <Style TargetType="Button">
             <Setter Property="Background" Value="#dea209" />
+        </Style>
+
+        <Style TargetType="ListBoxItem">
+            <Setter Property="BorderThickness" Value="10" />
         </Style>
     </Window.Resources>
 
@@ -26,19 +31,24 @@
 
             <!-- What's for today?-->
             <TextBlock Text="What is on your Agenda today?" Margin="0 15 0 15" FontSize="14" TextAlignment="Center"/>
-            <TextBox Padding="2" Margin="0 0 0 5" />
+            <TextBox x:Name="UserInput" Padding="2" Margin="0 0 0 5" />
 
             <!-- Buttons-->
             <Grid>
+                
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="2*" />
                     <ColumnDefinition Width="2*" />
                 </Grid.ColumnDefinitions>
 
-                <Button x:Name="AddTask" Content="Add Another Task" Grid.Column="0" Margin="2 "/>
+                <Button x:Name="AddTask" Content="Add Another Task" Grid.Column="0" Margin="2 " Click="AddTask_Click"/>
                 <Button x:Name="Finish" Content="Finish" Grid.Column="1" Margin="2" />
+                
             </Grid>
-            
+
+            <ListBox x:Name="ToDoList" Margin=" 0 30 0 0" />
+
+
         </StackPanel>
 
     </Border>

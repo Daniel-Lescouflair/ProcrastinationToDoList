@@ -24,5 +24,28 @@ namespace ProcrastinatorsToDoList
         {
             InitializeComponent();
         }
+
+        //Function that handles adding items to list box.
+        #region Add items to List
+        private void AddTask_Click(object sender, RoutedEventArgs e)
+        {
+
+            if (!(UserInput.Text == ""))
+            {
+                ToDoList.Items.Add(UserInput.Text);
+                UserInput.Text = String.Empty;
+            }
+            ToDoList.Items.Add(UserInput.Text);
+            UserInput.Text = String.Empty;
+
+        }
+
+
+        #endregion
+
+        private void Finish_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }
